@@ -24,7 +24,7 @@ The dataset consists of the following key attributes:
 - Removed rows with missing values
 - Filtered out header rows mistakenly included in the dataset
 - Converted `Quantity Ordered` and `Price Each` columns to appropriate data types
-- Converted `Order Date` column to datetime format, handling invalid values
+- Converted `Order Date` column to DateTime format, handling invalid values
 
 ### 2. Removing Duplicates
 - Identified and removed 618 duplicate rows to ensure data integrity
@@ -43,7 +43,7 @@ The cleaned dataset was analyzed using Tableau to extract insights such as:
 - **Sales Trends**: Identifying peak sales months and daily trends
 - **Best-Selling Products**: Recognizing the most popular items
 - **City-wise Sales Distribution**: Determining which locations have the highest revenue
-- **Hourly Sales Analysis**: Understanding customer purchase behavior throughout the day
+- **Hourly Sales Analysis**: Understanding customer purchase behaviour throughout the day
 - **Frequently Bought Together Products**: Identifying common product pairings
 
 ## Tools & Technologies Used
@@ -54,7 +54,7 @@ The cleaned dataset was analyzed using Tableau to extract insights such as:
 ## Getting Started
 
 ### Importing Necessary Libraries
-In this section, we import the required Python libraries to perform data analysis and visualization.
+This section imports the required Python libraries to perform data analysis and visualization.
 
 ### Loading Data
 Data loading is a crucial step in any data analysis project. Here, we load the dataset that we'll be working with. The dataset contains 12 CSV files containing sales details for the 12 months of the year 2019. Each file contains anywhere from around 9000 to 26000 rows and 6 columns. The columns are as follows:
@@ -81,7 +81,7 @@ We determine the best month for sales and present our findings.
 We identify the day of the week with the highest sales and provide insights.
 
 #### Timeline of Day of the Week vs. Revenue
-We visualize the timeline of day of the week versus revenue to spot trends.
+We visualize the timeline of the day of the week versus revenue to spot trends.
 
 #### Sales Per Hour
 We analyze sales per hour and present the results.

@@ -57,3 +57,68 @@ Using Python and libraries like Pandas, NumPy, Seaborn, and Matplotlib, key insi
   - **OS**: For file management and directory operations
 - **Jupyter Notebook**: For interactive data exploration and analysis
 
+## What I Have Done in This Project
+
+This project involves analyzing e-commerce sales data to uncover insights that can support business decision-making. The main tasks performed include data preprocessing, exploratory data analysis (EDA), and generating key business insights.
+
+## Data Processing
+
+Data processing includes cleaning and preparing the data for analysis. The main steps include handling missing or erroneous data, removing duplicates, and creating additional features (such as total sales and date components).
+
+## Exploratory Data Analysis (EDA)
+
+EDA is the key part of the project where we explore the data to uncover valuable insights.
+
+### Sales Analysis
+
+#### Best Month for Sales
+We calculate the total sales per month to identify the month with the highest sales.
+
+#### What Day of the Week Has the Highest Sales?
+We analyze the data to determine which day of the week has the highest sales.
+
+#### Timeline of Day of the Week vs. Revenue
+We visualize sales revenue based on the day of the week to identify patterns.
+
+#### Sales Per Hour
+We examine the sales distribution per hour to understand peak purchasing times.
+
+### Product Analysis
+
+#### What Product Sold the Most?
+We identify the best-selling product based on the total quantity sold.
+
+#### Top Products for Each City
+We determine the top-selling products by city.
+
+#### Top 5 Products with the Highest Revenue for Each City
+We identify the top 5 products generating the most revenue in each city.
+
+#### What Products Are Most Often Sold Together?
+We analyze product pairings to identify frequently bought-together items.
+
+#### What Percentage of Orders Include Multiple Products?
+We calculate the percentage of orders that include more than one product.
+
+### Order Value Analysis
+
+#### What Was the Highest Single-Order Value?
+We identify the highest value for a single order.
+
+### City and Revenue Analysis
+
+#### What City Has the Highest Revenue?
+We determine the city with the highest total revenue.
+
+#### What City Sold the Most Products?
+We identify the city with the highest sales volume.
+
+### State Analysis
+
+#### What Is the Distribution of States?
+We analyze the distribution of sales across different states.
+
+## Conclusion
+
+Through this sales data analysis, we derived key insights that can support business decision-making. These insights include peak sales months, the most popular products, top revenue-generating cities, and more. The findings can help optimize business operations, enhance marketing strategies, and maximize revenue. Continuous analysis of sales data is essential for adapting to changing market conditions and maintaining a competitive edge.
+

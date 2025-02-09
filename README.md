@@ -51,31 +51,6 @@ The cleaned dataset was analyzed using Tableau to extract insights such as:
 - Tableau for visualization and dashboard creation
 - Jupyter Notebook for interactive data exploration
 
-## Table of Contents
-- [Getting Started](#getting-started)
-  - [Importing Necessary Libraries](#importing-necessary-libraries)
-  - [Loading Data](#loading-data)
-  - [Data Processing](#data-processing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-  - [Sales Analysis](#sales-analysis)
-    - [Best Month for Sales](#best-month-for-sales)
-    - [What Day of the Week Has the Highest Sales?](#what-day-of-the-week-has-the-highest-sales)
-    - [Timeline of Day of the Week vs. Revenue](#timeline-of-day-of-the-week-vs-revenue)
-    - [Sales Per Hour](#sales-per-hour)
-  - [Product Analysis](#product-analysis)
-    - [What Product Sold the Most?](#what-product-sold-the-most)
-    - [Top Products for Each City](#top-products-for-each-city)
-    - [Top 5 Products with the Highest Revenue for Each City](#top-5-products-with-the-highest-revenue-for-each-city)
-    - [What Products Are Most Often Sold Together?](#what-products-are-most-often-sold-together)
-    - [What Percentage of Orders Include Multiple Products?](#what-percentage-of-orders-include-multiple-products)
-  - [Order Value Analysis](#order-value-analysis)
-    - [What Was the Highest Single-Order Value?](#what-was-the-highest-single-order-value)
-  - [City and Revenue Analysis](#city-and-revenue-analysis)
-    - [What City Has the Highest Revenue?](#what-city-has-the-highest-revenue)
-    - [What City Sold the Most Products?](#what-city-sold-the-most-products)
-  - [State Analysis](#state-analysis)
-    - [What Is the Distribution of States?](#what-is-the-distribution-of-states)
-
 ## Getting Started
 
 ### Importing Necessary Libraries

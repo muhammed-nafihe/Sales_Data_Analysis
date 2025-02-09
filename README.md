@@ -10,6 +10,8 @@ This project analyzes e-commerce sales data to derive valuable insights, detect 
 - Visualize the insights using Python libraries
 
 ## Dataset Description
+The dataset contains 12 CSV files containing sales details for the 12 months of the year 2019.
+Each file contains anywhere from around 9000 to 26000 rows and 6 columns.
 The dataset consists of the following key attributes:
 - **Order ID**: Unique identifier for each order
 - **Product**: Name of the product purchased
